@@ -1,0 +1,73 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+body{
+	
+}
+
+.wrapGiga{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.wrapA{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.wrapper{
+	margin-left: 35%;
+	margin-right:35%;
+	margin-top:10%;
+	margin-bottom: 10%;
+	padding: 30px;
+	background-color:#f7f7f7;
+}
+
+#orderWrap{
+	background-color:#f7f7f7;
+}
+#newProd{
+	background-color:#f7f7f7;
+}
+#jualOrderWrap{
+	background-color:#f7f7f7;
+}
+#myDiv{
+    background-color:#f7f7f7;
+}
+
+
+array(1) 
+{ [0]=> array(2) 
+	{ [0]=> string(1) "1" 
+		[1]=> string(5) "danny" } 
+}
+
+array(1) 
+{ [1]=> array(2) 
+	{ [0]=> string(1) "2" 
+	[1]=> string(4) "test" } 
+}
+
+array(1) 
+{ [2]=> array(2) 
+	{ [0]=> string(1) "5" 
+	[1]=> string(4) "test" } 
+}
+
+
+string(1) "1" 
+string(1) "1" 
+string(10) "2019-10-29" 
+string(5) "danny" 
+string(19) "GK SUPER MERAH TEST" 
+string(2) "25" 
+string(1) "1"
+
+
+array(7) 
+{ ["orderID"]=> string(1) "1" 
+["productID"]=> string(1) "1" 
+["order_date"]=> string(10) "2019-10-29" 
+["buyerName"]=> string(5) "danny" 
+["productName"]=> string(19) "GK SUPER MERAH TEST" 
+["quantity"]=> string(2) "25"
+
